@@ -7,3 +7,5 @@
 - 💬 Ask me about Java, Php, Javascript, Typescript, React.js, React Native, Expo, Firebase
 - 📫 How to reach me: [shashikaraveenyasas@gmail.com](mailto:shashikaraveenyasas@gmail.com)
 - ⚡ Fun fact: Gaming 🎮 Exploring new things 🔭
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shashika05)](https://git.io/streak-stats)
